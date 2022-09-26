@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Khushi05-D
+- 👋 Hi, I’m Khushi Dadheech. 
 - 👀 I’m pursuing B.Tech in Information Technology at Banasthali Vidyapith. 
 - 👀 I have a keen eye and interest in multiple fields in tech like web developement, app developement, ML, AI and so on.
 - 🌱 I’m currently learning variour concepts of Data Structures, Machine Learning Deep Learning.
