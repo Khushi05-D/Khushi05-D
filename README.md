@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Khushi Dadheech. 
 - 👀 I’m pursuing B.Tech in Information Technology at Banasthali Vidyapith. 
-- 👀 I have a keen eye and interest in multiple fields in tech like web developement, app developement, ML, AI and so on.
-- 🌱 I’m currently learning variour concepts of Data Structures, Machine Learning Deep Learning.
+- 👀 I have a keen eye and interest in multiple fields of tech like web developement, app developement, ML, AI and so on.
+- 🌱 I’m currently learning variour concepts of Data Structures and Algorithms, Machine Learning Deep Learning.
 - 📫 I can code in different programming languages like C, C++ and Python.
 - 💞️ I’m looking to learn, create and collaborate with people by coding in the said languages.
 - 📫 One can reach me through my LinkedIn https://www.linkedin.com/in/khushi-dadheech-1a6350237/
